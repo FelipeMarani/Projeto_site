@@ -17,7 +17,13 @@ main {
 
 img.lado{
 
-    width: 100px;;
-    height: 100px;;
+    width: 100px;
+    height: 100px;
     float:inline-end;
+}
+#list{
+
+    width: 100px;
+    height: 100px;
+
 }
